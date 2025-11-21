@@ -14,7 +14,7 @@ The insights generated benefit **cities**, **local governments**, **environmenta
 ---
 
 ## Project Structure
-
+```nginx
 Pipeline_Airflow_Transport/
 │
 ├── dags/
@@ -31,7 +31,7 @@ Pipeline_Airflow_Transport/
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
